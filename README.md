@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[Visita mi LinkedIn](linkedin.com/in/jazpurua/)
+[Visita mi LinkedIn](http//:linkedin.com/in/jazpurua/)
 
 <!---
 gabrialejo/gabrialejo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
