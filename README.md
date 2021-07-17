@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[Visita mi LinkedIn](http://inma.com.ve/)
+[Visita mi Empresa](http://inma.com.ve/)
 
 <!---
 gabrialejo/gabrialejo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
